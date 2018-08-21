@@ -11,7 +11,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="pip-hello",
+    name="pip_hello",
     version="0.0.1",
     keywords=("pip", "hello", "hello world"),
     description="pip install test",
